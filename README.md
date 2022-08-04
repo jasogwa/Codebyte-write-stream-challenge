@@ -10,7 +10,7 @@ the contents should be the key values (from the json) each on a separate line in
 {"data":"key=IAfpK, age=32, key=WNVdi, age=64, key=jp9zt, age=40, key=9snd2, age=32"}
 
 ## File Contents (output.txt)
-IAfpK
+IAfpK \n
 9snd2
 
 ## Example Output
